@@ -1,0 +1,19 @@
+\contentsline {section}{摘要}{i}{Doc-Start}%
+\contentsline {section}{Abstract}{ii}{Doc-Start}%
+\contentsline {section}{\numberline {1}引言/Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}太赫兹基础知识}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}太赫兹的传播特性}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}太赫兹信号的产生和检测}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}太赫兹成像与传感领域}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}脉冲时域成像系统}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}医疗和生物应用}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}太赫兹无线通信}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}全电子型}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}光电子型}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}光量子型}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}总结}{5}{subsection.4.4}%
+\contentsline {section}{\numberline {5}太赫兹无线通信的主要挑战}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}传播损耗与功率}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}精密电子器件的制造}{6}{subsection.5.2}%
+\contentsline {section}{\numberline {6}总结与展望/ConclusIon And RecommendAtIons}{6}{section.6}%
+\contentsline {section}{参考文献}{8}{section.6}%
